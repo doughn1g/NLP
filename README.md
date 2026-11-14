@@ -1,5 +1,20 @@
 # Idiom translation comparison
 
+<!-- BEGIN PUBLIC RESULTS -->
+## Current results: 75 isolated idioms
+
+The [published results snapshot](published_results/idioms_to_en_75/README.md) contains all four raw translation files, run manifests, a side-by-side workbook, and 300 preliminary semantic decisions. On the 0–2 meaning rubric, full-credit counts out of 25 idioms per language were:
+
+| Source language | NLLB-200 | Qwen3-4B-Instruct | MADLAD-400-3B-MT | M2M100-418M |
+| --- | ---: | ---: | ---: | ---: |
+| Mandarin → English | 0 | 12 | 3 | 0 |
+| Tamil → English | 0 | 0 | 0 | 0 |
+| Tagalog → English | 0 | 2 | 0 | 0 |
+| **Total / 75** | **0** | **14** | **3** | **0** |
+
+These are **preliminary AI judgments**, not validated bilingual scores. Naturalness has not been graded. The inputs are isolated idioms rather than full sentences, so this table does not measure in-context translation. The [semantic summary CSV](published_results/idioms_to_en_75/GRADED_75_IDIOMS_4_MODELS_SEMANTIC_SUMMARY.csv) includes partial-credit and zero-credit counts; the [graded workbook](published_results/idioms_to_en_75/GRADED_75_IDIOMS_4_MODELS_SEMANTIC_DRAFT.xlsx) shows each case.
+<!-- END PUBLIC RESULTS -->
+
 This project compares four translation models on 75 draft idioms translated into English: 25 each from simplified Mandarin Chinese, Tamil, and Tagalog. The models are NLLB-200 distilled 600M, Qwen3-4B-Instruct-2507, MADLAD-400-3B-MT, and M2M100-418M. All four translate the same source IDs independently. The current inputs are isolated phrases, and bilingual grading has not yet been done.
 
 **For a coding agent:** start with [AGENTS.md](AGENTS.md), then read [AGENTS.override.md](AGENTS.override.md) for the research brief. The [complexity audit](data/idiom_complexity_audit.md) explains why these are not all high-complexity idioms.

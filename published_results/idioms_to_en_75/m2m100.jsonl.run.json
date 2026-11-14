@@ -1,0 +1,34 @@
+{
+  "model_id": "facebook/m2m100_418M",
+  "revision": "55c2e61bbf05dfb8d7abccdc3fae6fc8512fd636",
+  "resolved_revision": "55c2e61bbf05dfb8d7abccdc3fae6fc8512fd636",
+  "task": "translation",
+  "device": "cpu",
+  "settings": {
+    "generation": {
+      "do_sample": false,
+      "num_beams": 1,
+      "max_new_tokens": 128
+    },
+    "prompt_template": null,
+    "nllb_language_codes": null,
+    "madlad_target_prefix": null,
+    "m2m100_language_codes": "project ISO codes"
+  },
+  "python": "3.10.12 (main, Jun 22 2026, 18:55:27) [GCC 11.4.0]",
+  "packages": {
+    "torch": "2.6.0+cu124",
+    "transformers": "4.53.3",
+    "sentence-transformers": "5.1.0",
+    "huggingface-hub": "0.36.2",
+    "safetensors": "0.5.3",
+    "accelerate": "1.9.0",
+    "sentencepiece": "0.2.0",
+    "protobuf": "4.21.12"
+  },
+  "input": "/usr1/home/s126mdg21_09/FYP/nlpproj/data/idioms_to_en_draft.jsonl",
+  "input_sha256": "1ababd43c915c394a09cae3d3f7dcf73def3ca58ef5a6a11eb1d786e0f1170c3",
+  "candidate_file": null,
+  "candidate_sha256": null,
+  "n": 75
+}

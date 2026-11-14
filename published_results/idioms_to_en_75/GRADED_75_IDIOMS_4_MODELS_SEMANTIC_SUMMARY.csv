@@ -1,0 +1,13 @@
+source_lang,model,score_0,score_1,score_2,total
+zh,nllb,24,1,0,25
+zh,qwen,11,2,12,25
+zh,madlad,22,0,3,25
+zh,m2m100,23,2,0,25
+ta,nllb,25,0,0,25
+ta,qwen,23,2,0,25
+ta,madlad,24,1,0,25
+ta,m2m100,25,0,0,25
+tl,nllb,22,3,0,25
+tl,qwen,20,3,2,25
+tl,madlad,20,5,0,25
+tl,m2m100,25,0,0,25

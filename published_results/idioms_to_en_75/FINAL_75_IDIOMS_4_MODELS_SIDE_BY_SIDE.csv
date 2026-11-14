@@ -1,0 +1,76 @@
+id,source_lang,target_lang,source_text,draft_meaning,review_status,nllb_translation,qwen_translation,madlad_translation,m2m100_translation
+idiom-zh-en-01,zh,en,画蛇添足,make something worse by adding unnecessary detail,draft,The Serpent,"To add feet to a snake — a metaphor for doing something unnecessary or excessive, which only makes things worse.",Pin-up,The Snake Added
+idiom-zh-en-02,zh,en,对牛弹琴,speak to an audience that cannot appreciate or understand,draft,The bullfighter,To pluck a zither for a cow,The Bullharp,Playing with the cow.
+idiom-zh-en-03,zh,en,亡羊补牢,take corrective action after a loss,draft,The dead sheep are being held in prisons,"When it's too late to prevent a loss, it's still better to make up for it.",Dead Sheep,The dead sheep.
+idiom-zh-en-04,zh,en,杯弓蛇影,be frightened by an imagined danger,draft,The Shadow of the Bow Snake,Seeing a snake in a cup of wine.,Cupbow snake,The Shadow of the Shark.
+idiom-zh-en-05,zh,en,井底之蛙,have a narrow view of the world,draft,The bottom of the well,A frog at the bottom of a well,The Frog at the Bottom of the Well,The cattle under the shell.
+idiom-zh-en-06,zh,en,守株待兔,wait passively for luck instead of working,draft,The stock is waiting,Waiting by a stump for a hare to come along,Sugawara no Hachi,The stock for the rabbit.
+idiom-zh-en-07,zh,en,雪中送炭,give timely help to someone in need,draft,Coal in the snow,To offer help at a critical moment.,Snow-carrying coal,Carbohydrate in the snow.
+idiom-zh-en-08,zh,en,掩耳盗铃,deceive oneself while doing something obviously wrong,draft,The ears of thieves,To plug one's ears to steal a bell.,Ear bell,Cover the earbags.
+idiom-zh-en-09,zh,en,自相矛盾,contradict oneself,draft,The contradiction,Contradictory self.,Self-contradiction,contradictions
+idiom-zh-en-10,zh,en,半途而废,give up halfway,draft,Halfway to waste,To give up halfway.,Halfway to the end,Halfway to Fall.
+idiom-zh-en-11,zh,en,一举两得,achieve two aims with one action,draft,One step at a time,A single action achieves two goals.,Get two for one.,One step two.
+idiom-zh-en-12,zh,en,一箭双雕,achieve two goals with one move,draft,A two-arrow sculpture,"One arrow, two ducks.",Arrow and Sword,A double shot.
+idiom-zh-en-13,zh,en,纸上谈兵,discuss strategy without practical experience,draft,The soldiers on paper,Talking about warfare on paper,Paper talk,Talk on paper.
+idiom-zh-en-14,zh,en,盲人摸象,judge a whole from only one part,draft,The blind man touches,The blind men touching an elephant,Blind touch,The blind man sees.
+idiom-zh-en-15,zh,en,刻舟求剑,cling to an outdated method despite changed circumstances,draft,The Ship for the Sword,Cutting a boat to find a sword,Kenjutsu,The Sword.
+idiom-zh-en-16,zh,en,得不偿失,suffer a loss that outweighs the gain,draft,Unpaid,Not worth it; the loss exceeds the gain.,Nothing to lose,Not to lose.
+idiom-zh-en-17,zh,en,落井下石,make things worse for someone already in trouble,draft,Drop the rock,To push someone into a well and then throw stones down to them.,Ochi-no-shi,Falling down stone.
+idiom-zh-en-18,zh,en,破釜沉舟,commit fully by removing the possibility of retreat,draft,The shipwreck,Break the cooking pots and sink the boats,Bumbu Senjo,The boat.
+idiom-zh-en-19,zh,en,三心二意,be indecisive or halfhearted,draft,What is the meaning of this?,Distracted and inattentive,Tri-hearted-two-hearted,Three Hearts
+idiom-zh-en-20,zh,en,狐假虎威,use someone else's power to intimidate people,draft,The Fox and the Tiger,To bully others by pretending to have the strength of a tiger.,Fox-faced tiger,Fake Tiger
+idiom-zh-en-21,zh,en,滥竽充数,fill a position without having the needed ability,draft,The number of overloads,To fill one's role with unqualified people.,A-ha,The number of
+idiom-zh-en-22,zh,en,画龙点睛,add a finishing touch that brings something to life,draft,Drawing the Dragon's Eye,"To add the finishing touch to a painting, or to make a situation or argument come alive with a final, decisive touch.",Pin-Dragon,Painting the Dragon.
+idiom-zh-en-23,zh,en,开门见山,get straight to the point,draft,Open the door to the mountain,Get to the point.,Open the door and see the mountain,Open the mountain.
+idiom-zh-en-24,zh,en,眉开眼笑,beam with happiness,draft,The eyebrows are open.,Smiling from ear to ear,Smile.,Eyes are laughing.
+idiom-zh-en-25,zh,en,胸有成竹,have a well-considered plan beforehand,draft,The chest is made of bamboo.,Have a clear plan in mind.,Chesty bamboo,The breasts are bamboo.
+idiom-ta-en-01,ta,en,தலைக்கு மேல் வெள்ளம்,be overwhelmed by trouble,draft,Flooding overhead,Floods above the head,Flood above head,The head is above.
+idiom-ta-en-02,ta,en,அள்ளிக் குவித்தல்,earn or accumulate a great deal,draft,The collection of silver,To pile up or accumulate,Aggregation,The adultery.
+idiom-ta-en-03,ta,en,அண்டப்புழுகன்,a habitual liar,draft,The Oval,Andhappuzhukan,Astrophytum,The endowed
+idiom-ta-en-04,ta,en,அள்ளியிறைத்தல்,spend far too much,draft,"The Bible says: ""The whole earth is made of dust"".",To elevate or exalt,Stacking,and the
+idiom-ta-en-05,ta,en,அரக்கப் பறக்க,in a great hurry,draft,The dragon fly,Fly like a kite,The Devil's Flight,and the army.
+idiom-ta-en-06,ta,en,அழுங்குப்பிடி,stubbornly hold one's ground,draft,The crying,Azhukuppadi,Alargun,The Cut.
+idiom-ta-en-07,ta,en,அகலக் கால் வைத்தல்,overreach or go beyond one's means,draft,The width of the leg,Putting the foot flat,Wide leg,and hold the hand.
+idiom-ta-en-08,ta,en,ஆகாயக் கோட்டை,an unrealistic dream or fantasy,draft,The Fortress of Agia,Sky line,Sky Tower,The Cage.
+idiom-ta-en-09,ta,en,ஆறப்போடல்,put something off until later,draft,The sixth,To go with the flow,Aura,and the
+idiom-ta-en-10,ta,en,ஆசை வார்த்தை,deceptive or enticing sweet talk,draft,desire word,Word of desire,Wishword,The word of the song.
+idiom-ta-en-11,ta,en,ஆழம் பார்த்தல்,test someone's ability or character,draft,The Bible is a powerful source of inspiration.,To look deeply.,Deep-seeing,I saw the
+idiom-ta-en-12,ta,en,இலை மறை காய்,something kept concealed,draft,The leaves are covered with a layer of,Leaf shade injury,Leaf-covering berry,The house is in the door.
+idiom-ta-en-13,ta,en,இளிச்சவாயன்,a gullible person,draft,The greenhouse gas,Illi Cchavayan,Illichavayan,and the light.
+idiom-ta-en-14,ta,en,இட்டுக்கட்டுதல்,invent a false story,draft,driving,To take and keep,Insertion,Their ownership.
+idiom-ta-en-15,ta,en,இலவு காத்த கிளி,wait in vain and end up disappointed,draft,The light-waiting clay,The waiting chicken,Lawo-guarded rabbit,The goal is to wait.
+idiom-ta-en-16,ta,en,இரண்டு தோணியில் கால் வைத்தல்,try to pursue two incompatible paths at once,draft,Putting your foot on two shoulders,Putting feet on two stools,Two-boat ride,He puts two hands on his leg.
+idiom-ta-en-17,ta,en,ஈரல் கருகுதல்,suffer intense distress,draft,Infection of the liver,To make something thick or dense.,Liver cirrhosis,The Ivory.
+idiom-ta-en-18,ta,en,ஈயோட்டுதல்,sit idle with nothing to do,draft,The Eating,To scatter or distribute (as in scattering seeds or offerings),Lead-laying,The intrusion.
+idiom-ta-en-19,ta,en,உள்ளங்கையில் நெல்லிக்கனி,something plain and obvious,draft,The palm of your hand,"A sweet, sticky substance found in the mouth.",The inner palm of the palm,In the inside.
+idiom-ta-en-20,ta,en,உப்பில்லாப் பேச்சு,pointless or empty talk,draft,"The Bible says: ""The word of the Lord is truth"".",Talk without salt,Saltless speech,I speak to you.
+idiom-ta-en-21,ta,en,உச்சி குளிர்தல்,feel very pleased,draft,Peak cooling,Peak cooling,Peak cooling,The cold is
+idiom-ta-en-22,ta,en,உலை வைத்தல்,bring ruin on someone,draft,Keeping the stove,To leave a fire or to light a fire,Burial,and holding the
+idiom-ta-en-23,ta,en,அரை மனிதன்,a person held in low regard,draft,Half man,Half-man,Half Man,This is a man.
+idiom-ta-en-24,ta,en,அகடவிகடம்,a cunning trick,draft,The museum,Akkadavikadam,Akadviktham,The end.
+idiom-ta-en-25,ta,en,உதவாக்கரை,a useless person,draft,assistant,Help me out,Helper's Bay,The help.
+idiom-tl-en-01,tl,en,bukas ang palad,generous and willing to help,draft,The arm is open.,Open the heavens,open the palm,The Palace is open
+idiom-tl-en-02,tl,en,balitang kutsero,an untrue rumor,draft,white cucumber,news reporter,balitang kutsero,The Boxer
+idiom-tl-en-03,tl,en,naglalaro ng apoy,engaging in a dangerous affair or infidelity,draft,Playing with fire,playing with fire,playing fire,The support
+idiom-tl-en-04,tl,en,naghalo ang balat sa tinalupan,a serious quarrel broke out,draft,The skin is mixed with the scalp,The skin turned yellowish.,the skin mixed with the tinalupan,The Belt in the Tiny
+idiom-tl-en-05,tl,en,parang natuka ng ahas,left speechless by surprise,draft,It's like a snake biting you.,Like something bitten by a snake.,like snake bitten,Like the Ahas
+idiom-tl-en-06,tl,en,bulang-gugo,generous with money,draft,Blood moon,broad-shouldered,daffodil,by Gugo
+idiom-tl-en-07,tl,en,itaga mo sa bato,remember or trust that a promise will be kept,draft,Put it on the rock,Throw it against the stone.,itaga mo sa bato,Take the bag.
+idiom-tl-en-08,tl,en,maglubid ng buhangin,tell lies,draft,to dig sand,to dig up the soil,sandblasting,Maglibid of the Buangin
+idiom-tl-en-09,tl,en,makati ang dila,talkative or prone to gossip,draft,The tongue is torn,to kiss (someone),aching tongue,The Dila
+idiom-tl-en-10,tl,en,umaalon ang dibdib,feel nervous or anxious,draft,The heart is jealous,The chest rises.,breasts are bent,The Wave
+idiom-tl-en-11,tl,en,pag-iisang dibdib,getting married,draft,lonely in the heart,single breast,single breast,The Smooth
+idiom-tl-en-12,tl,en,anghel ng tahanan,a child in the family,draft,angel of the home,family angel,angel of home,Angels of the Prison
+idiom-tl-en-13,tl,en,sariling pugad,one's own home,draft,own crop,own passion,own nest,Sugaring Pudding
+idiom-tl-en-14,tl,en,utang na loob,a debt of gratitude,draft,debt of conscience,debt of gratitude,debt,Debt and Debt
+idiom-tl-en-15,tl,en,parang aso't pusa,always quarreling,draft,It's like a dog and a cat.,like a dog and a cat,like dogs and cats,As a pusa
+idiom-tl-en-16,tl,en,nag-alsa balutan,left home or ran away,draft,lifting the chain,started to wrap up,lifting balutan,by Balutan
+idiom-tl-en-17,tl,en,pinagbubuhatan ng kamay,subjected to physical violence,draft,handmade,being handled by hand,hand-holding,The creation of the
+idiom-tl-en-18,tl,en,nagbabagong-loob,changing one's ways for the better,draft,changing,changing one's mind,converted,The Job
+idiom-tl-en-19,tl,en,di makabasag-pinggan,meek or very gentle,draft,unreadable,can't be properly addressed,It is a burning fire.,by Pinggan
+idiom-tl-en-20,tl,en,anak-pawis,a laborer or working-class person,draft,the son of a poet,a child's rash,spades,The Pais
+idiom-tl-en-21,tl,en,makati ang paa,restless and fond of going out,draft,The leg is broken.,to meet the foot,itchy foot,The Pope
+idiom-tl-en-22,tl,en,mabigat ang dugo,feel strong dislike toward someone,draft,heavy blood,The blood is thick.,heavy blood,Long time long
+idiom-tl-en-23,tl,en,namuti ang mata,wait for a very long time,draft,The eyes are blurred,The eyes watered.,namuti ang mata,and the eyes
+idiom-tl-en-24,tl,en,ningas-cogon,enthusiasm that fades quickly,draft,is being confounded,cogon grass weed,100%,by COGON
+idiom-tl-en-25,tl,en,bukambibig,someone or something mentioned constantly,draft,love,to be a bit of a pain,bukambibig,Their
