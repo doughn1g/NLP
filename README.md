@@ -4,6 +4,8 @@ This project compares four translation models on 75 draft idioms translated into
 
 **For a coding agent:** start with [AGENTS.md](AGENTS.md), then read [AGENTS.override.md](AGENTS.override.md) for the research brief. The [complexity audit](data/idiom_complexity_audit.md) explains why these are not all high-complexity idioms.
 
+**For project users:** [USAGE_GUIDE.md](USAGE_GUIDE.md) explains setup, commands, result files, and blind grading.
+
 ## Quick start
 
 Use Python 3.10 and a project-local `.venv`. Install an official PyTorch 2.6 build suitable for your CPU or GPU, then install `requirements.txt`. Allow about 45 GB for packages and the four checkpoints. `prepare_models.sh` checks model-cache space before downloading pinned files from the official publishers.

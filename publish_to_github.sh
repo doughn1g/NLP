@@ -24,7 +24,7 @@ echo "Working copy: $WORK_DIR"
 git clone -- "$REMOTE" "$REPO_DIR"
 
 sources=(
-  .gitignore AGENTS.md AGENTS.override.md README.md requirements.txt
+  .gitignore AGENTS.md AGENTS.override.md README.md USAGE_GUIDE.md requirements.txt
   baseline.py build_idiom_draft.py export_excel.py
   prepare_models.sh download_new_models.sh run_four_idioms.sh
   install_portable_git.sh publish_to_github.sh
