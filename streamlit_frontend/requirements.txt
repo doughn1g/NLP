@@ -1,0 +1,4 @@
+# Install into the SAME environment used to run the NLP models.
+# Research/model dependencies stay in the parent repo's requirements.txt.
+# For a local preview, use Python 3.12 (not the newest installed Python).
+streamlit==1.50.0
